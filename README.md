@@ -11,19 +11,19 @@
 
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="left" width=520 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kallakruparaju&show_icons=true&include_all_commits=true&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju's github stats" />
+  <img align="left" width=520 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=akashnani-star&show_icons=true&include_all_commits=true&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju's github stats" />
 </a> 
     
        
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img a width=450 align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kallakruparaju&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" />
+  <img a width=450 align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akashnani-star&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" />
 </a>
   
  <br><br><br><br><br><br><br><br><br><br>
     
     
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=800 src="https://github-readme-streak-stats.herokuapp.com/?user=kallakruparaju&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju" />
+      <img align="center" width=800 src="https://github-readme-streak-stats.herokuapp.com/?user=akashnani-star&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju" />
     </a> 
 
 
