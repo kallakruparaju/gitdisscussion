@@ -16,6 +16,10 @@
   </div>
     </p>
   <br><br><br><br><br><br><br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kallakruparaju&langs_count=8)](https://github.com/kallakruparaju/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kallakruparaju&layout=compact)](https://github.com/kallakruparaju/github-readme-stats)
+
 
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kallakruparaju&show_icons=true&locale=en&layout=compact" alt="kallakruparaju" /></p>
