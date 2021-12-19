@@ -18,7 +18,8 @@
     
   </div>
     </p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+ <br><br><br><br><br><br><br><br><br>
  
  <h2 align="center">Programming languages used ⚡</h2>
  
@@ -26,7 +27,8 @@
 
 
 <div>   
-  <br><br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://github.com/hackcoderr/github-readme-stats">
   <img a width=380 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kallakruparaju&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" />
 </a>
