@@ -4,7 +4,7 @@
   <h2 align="left"> ✍ About Me ✍ </h2>
 
   <br>
-  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/kallakruparaju/gitdisscussion/master/images/welcome.gif" width="380" height="240"/>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallakruparaju/gitdisscussion/master/images/welcome.gif" width="380" height="240"/>
   </br>
 
 
