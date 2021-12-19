@@ -19,11 +19,11 @@
   
   
   <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kallakruparaju&show_icons=true&include_all_commits=true&theme=radical" alt="Onkar's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kallakruparaju&show_icons=true&include_all_commits=true&theme=react" alt="Onkar's github stats" />
 </a>
 <a href="https://github.com/hackcoderr/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kallakruparaju&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kallakruparaju&layout=compact&theme=react" />
   
   
 </a>
