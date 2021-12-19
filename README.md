@@ -17,6 +17,14 @@
     </p>
   <br><br><br><br><br><br><br>
   
+  <a href="https://github.com/hackcoderr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kallakruparaju&show_icons=true&include_all_commits=true&theme=radical" alt="Onkar's github stats" />
+</a>
+<a href="https://github.com/hackcoderr/github-readme-stats">
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kallakruparaju&layout=compact&theme=radical" />
+</a>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kallakruparaju&langs_count=8)](https://github.com/kallakruparaju/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kallakruparaju&layout=compact)](https://github.com/kallakruparaju/github-readme-stats)
 
