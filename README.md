@@ -9,7 +9,7 @@
   <div>
    
    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=kallakruparaju&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju" />
+      <img align="left" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=kallakruparaju&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju" />
     </a> 
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
