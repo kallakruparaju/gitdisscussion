@@ -31,7 +31,7 @@
 <div>   
      
   <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img a width=400 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kallakruparaju&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" />
+  <img a width=500 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kallakruparaju&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" />
 </a>
     
  </div>
