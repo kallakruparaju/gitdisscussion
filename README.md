@@ -12,7 +12,7 @@
       <img align="right" width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=kallakruparaju&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju" />
     </a> 
  <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="left" width=300 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kallakruparaju&show_icons=true&include_all_commits=true&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju's github stats" />
+  <img align="center" width=300 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kallakruparaju&show_icons=true&include_all_commits=true&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju's github stats" />
 </a> 
     
 
