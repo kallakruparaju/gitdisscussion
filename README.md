@@ -11,19 +11,21 @@ I'm a <b>Computer Science student</b> at [<b>Rajiv Gandhi University of Knowledg
  
 <div>
 
-  <h2 align="left">Connect With Me </h2>
+  <h2 align="left">To Connect With Me </h2>
   
   <a href="https://linkedin.com/in/kalla-kruparaju-9b0790148" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   height="30" width="100" /></a> 
   <a href="https://medium.com/@kallakruparaju" target="blank"><img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  height="30" width="100" /></a> 
   <a href="https://github.com/kallakruparaju/" target="blank"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="30" width="100" /></a> 
   
+</div>
 
+<div>
 <h2>⚡Automation⚡  is the Future of Information Technology and it is close to my heart Actively Trying to Integrate Multiple Technologies together for optimized Configuration & Infrastructure </h2>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallakruparaju/gitdisscussion/master/images/automation.gif" width="1000" height="450"/>
   
-<br><br><br><br><br><br><br><br><br><br> 
-
+ 
+</div>
 <p> . </p>
 
 <h2 align="center" >🛠 Technical Skills 🛠 </h2>
@@ -32,6 +34,9 @@ I'm a <b>Computer Science student</b> at [<b>Rajiv Gandhi University of Knowledg
 Currently working on popular technologies like DevOps, Data Structure and Algorithms, Data science, MLOps, Cloud Computing, Big Data, DataBases, Mobile Application development, Web Technologies, Networking and Troubleshooting, Operating System
 
 
+<div>
+  
+ 
 <h2 align="center">Stats ⚡</h2>
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
@@ -53,4 +58,4 @@ Currently working on popular technologies like DevOps, Data Structure and Algori
 
     
   </div>
-    </p>
+
