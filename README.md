@@ -9,12 +9,14 @@
 
 
   
-<b>Welcome to my profile ‼️</b>
+<h5>Welcome to my profile ‼️</h5>
 
-I'm a <b>Computer Science student</b> at [<b>Rajiv Gandhi University of Knowledge Technologies Ongole</b>](https://www.rguktong.ac.in/). I'm a Curious and tech enthusiast person Highly Interested to work in the <b>Devops</b> and <b>Cloud approaches</b>. I am always passionate about understanding the core concepts behind the popular technologies. I am Keen to learn new things every day and <b>passionate about exploring new technologies and Intergrating different technologies</b>. Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies .<b>⚡Automation⚡</b> is close to my heart Actively Trying to Integrate Multiple Technologies together for optimized Configuration & Infrastructure.
+I'm a <b>Computer Science student</b> at [<b>Rajiv Gandhi University of Knowledge Technologies Ongole</b>](https://www.rguktong.ac.in/). I'm a Curious and tech enthusiast person Highly Interested to work in the <b>Devops</b> and <b>Cloud approaches</b>. I am always passionate about understanding the core concepts behind the popular technologies. I am Keen to learn new things every day and <b>passionate about exploring new technologies and Intergrating different technologies</b>. Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies.
+
+<b>⚡Automation⚡ is close to my heart Actively Trying to Integrate Multiple Technologies together for optimized Configuration & Infrastructure </b>
 
   </br>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallakruparaju/gitdisscussion/master/images/automation.gif" width="380" height="240"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallakruparaju/gitdisscussion/master/images/automation.gif" width="1000" height="450"/>
   </br>
  </div>
 
