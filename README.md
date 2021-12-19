@@ -12,11 +12,13 @@
     </a>
     
      <a href="https://github.com/hackcoderr/github-readme-stats">
-       <img align="center" width=380 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kallakruparaju&show_icons=true&include_all_commits=true&theme=react" alt="Kalla Kruparaju github stats" />
+       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kallakruparaju&show_icons=true&include_all_commits=true&theme=react" alt="Kalla Kruparaju github stats" />
     </a>
     
     
-  
+    <a href="https://github.com/hackcoderr/github-readme-stats">
+     <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kallakruparaju&layout=compact&theme=react" /> 
+   </a>
     
    
   </div>
