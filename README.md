@@ -11,10 +11,12 @@ I'm a <b>Computer Science student</b> at [<b>Rajiv Gandhi University of Knowledg
  
 <div>
 
-<h2 align="center"><br>Connect With Me  :  <a href="https://linkedin.com/in/kalla-kruparaju-9b0790148" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalla-kruparaju-9b0790148"   height="20" width="20" /></a> 
-  <a href="https://medium.com/@kallakruparaju" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kallakruparaju"  height="20" width="20" /></a> </h2>
-
-</div>
+  <h2 align="left">Connect With Me </h2>
+  
+  <a href="https://linkedin.com/in/kalla-kruparaju-9b0790148" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   height="30" width="100" /></a> 
+  <a href="https://medium.com/@kallakruparaju" target="blank"><img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  height="30" width="100" /></a> 
+  <a href="https://github.com/kallakruparaju/" target="blank"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="30" width="100" /></a> 
+  
 
 <h2>⚡Automation⚡  is the Future of Information Technology and it is close to my heart Actively Trying to Integrate Multiple Technologies together for optimized Configuration & Infrastructure </h2>
 
