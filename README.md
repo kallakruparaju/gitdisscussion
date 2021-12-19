@@ -11,9 +11,6 @@
       <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=kallakruparaju&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju" />
     </a>
     
-     <a href="https://github.com/hackcoderr/github-readme-stats">
-       <img align="center" width=380 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kallakruparaju&show_icons=true&include_all_commits=true&theme=react" alt="Kalla Kruparaju github stats" />
-    </a>
     
     
     <a href="https://github.com/hackcoderr/github-readme-stats">
