@@ -23,20 +23,19 @@
     
  <br><br><br>
  
- <p>
-  <div>   
-        
-       
-  <a href="https://github.com/hackcoderr/github-readme-stats">
+ <h2 align="center">Programming languages used ⚡</h2>
  
+ <p>
+
+
+<div>   
+     
+  <a href="https://github.com/hackcoderr/github-readme-stats">
   <img a width=380 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kallakruparaju&layout=compact&theme=react&border=61dafb&hide_border=true" />
 </a>
     
  </div>
  </p>
-    
-
-
   
  <br><br><br><br>
   
