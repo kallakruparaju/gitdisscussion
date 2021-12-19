@@ -1,13 +1,20 @@
 <h1 align="center">Hi Dev's <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Kalla Kruparaju Here 👨‍🎓</h1>
 
+<div>
 ##  ✍ About Me ✍
+ <p>
+  <img width="380" height="240" align='right' src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/unnamed.gif"> 
+</p>
+<b>Welcome to my profile ‼️</b>
 
-<b>Welcome to my profile</b>! I'm a Computer Science student at Rajiv Gandhi University of Knowledge Technologies Ongole. I am Keen to learn new things every day and passionate about exploring new technologies and Intergrating different technologies. Highly Interested to work in the Devops and Cloud approaches. I am always passionate about understanding the core concepts behind the popular technologies
+I'm a Computer Science student at Rajiv Gandhi University of Knowledge Technologies Ongole. I am Keen to learn new things every day and passionate about exploring new technologies and Intergrating different technologies. Highly Interested to work in the Devops and Cloud approaches. I am always passionate about understanding the core concepts behind the popular technologies
+
+Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies🤩 .<b>⚡Automation⚡</b> is close to my heart ✅ Actively Trying to Integrate Multiple Technologies together for optimized Configuration & Infrastructure .
 
 I'm a Curious and tech enthusiast person working on popular technologies like DevOps, Data Structure and Algorithms, Data science, MLOps, Cloud Computing, Big Data, DataBases, Mobile Application development, Web Technologies, Networking and Troubleshooting, Operating System. 
 
 
- 
+ </div>
 
 
 
