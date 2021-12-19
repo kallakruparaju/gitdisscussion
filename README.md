@@ -2,9 +2,13 @@
 
 <div>
 ##  ✍ About Me ✍
- <p>
-  <img width="380" height="240" align='right' src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/unnamed.gif"> 
-</p>
+
+  <br>
+  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/8398c1a2198a65472e1ac361ffab77e3.gif" width="1000" height="450"/>
+  </br>
+
+
+  
 <b>Welcome to my profile ‼️</b>
 
 I'm a Computer Science student at Rajiv Gandhi University of Knowledge Technologies Ongole. I am Keen to learn new things every day and passionate about exploring new technologies and Intergrating different technologies. Highly Interested to work in the Devops and Cloud approaches. I am always passionate about understanding the core concepts behind the popular technologies
