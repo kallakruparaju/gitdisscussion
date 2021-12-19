@@ -28,6 +28,7 @@ I'm a <b>Computer Science student</b> at [<b>Rajiv Gandhi University of Knowledg
   <img align="left" width=520 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=akashnani-star&show_icons=true&include_all_commits=true&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju's github stats" />
 </a> 
     
+    
        
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img a width=450 align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akashnani-star&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" />
