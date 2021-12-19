@@ -20,8 +20,8 @@
  <br><br><br><br><br><br><br><br><br><br><br><br>
     
    
-    <a href=" ">
-  <img a width=350 align="right" src="" />
+    <a>
+  <p> </p>
 </a>
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
