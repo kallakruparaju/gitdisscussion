@@ -13,14 +13,13 @@
     <a href="https://github.com/kallakruparaju/github-readme-stats" title="Go to Source">
       <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=kallakruparaju&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kallakruparaju&show_icons=true&locale=en&layout=compact&theme=react&border=61dafb&hide_border=true" alt="kallakruparaju" /></p>
     
-  </div>
+    <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kallakruparaju&show_icons=true&locale=en&layout=compact&theme=react&border=61dafb&hide_border=true" alt="kallakruparaju" /></a>
+    
+ 
+</div>
     </p>
 
   <br><br><br><br><br><br><br>
   
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kallakruparaju&show_icons=true&locale=en" alt="kallakruparaju" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kallakruparaju&" alt="kallakruparaju" /></p>
