@@ -31,10 +31,26 @@ I'm a <b>Computer Science student</b> at [<b>Rajiv Gandhi University of Knowledg
 
 <h2 align="center" >🛠 Technical Skills 🛠 </h2>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallakruparaju/gitdisscussion/master/images/tools.gif" width="380" height="240"/>
+  
+
 Currently working on popular technologies like DevOps, Data science, MLOps, Cloud Computing, Big Data, DataBases, Mobile Application development, Web Technologies, Data Structure and Algorithms, Networking and Troubleshooting, Operating System
 
   <b>DevOps Tools</b>
   
+ ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+ ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+ ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+ ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
+ ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=black&labelColor=white)
+ ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
+ ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+ ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+ 
+  	
 
 
 </div>
@@ -45,20 +61,20 @@ Currently working on popular technologies like DevOps, Data science, MLOps, Clou
 <h2 align="center">Stats ⚡</h2>
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="left" width=520 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=akashnani-star&show_icons=true&include_all_commits=true&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju's github stats" />
+  <img align="left" width=520 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kallakruparaju&show_icons=true&include_all_commits=true&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju's github stats" />
 </a> 
     
     
        
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img a width=450 align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akashnani-star&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" />
+  <img a width=450 align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kallakruparaju&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" />
 </a>
   
  <br><br><br><br><br><br><br><br><br><br>
     
     
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=800 src="https://github-readme-streak-stats.herokuapp.com/?user=akashnani-star&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju" />
+      <img align="center" width=800 src="https://github-readme-streak-stats.herokuapp.com/?user=kallakruparaju&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju" />
     </a> 
 
     
