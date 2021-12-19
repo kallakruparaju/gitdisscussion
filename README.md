@@ -16,7 +16,7 @@ I'm a <b>Computer Science student</b> at [<b>Rajiv Gandhi University of Knowledg
   <a href="https://linkedin.com/in/kalla-kruparaju-9b0790148" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   height="30" width="100" /></a> 
   <a href="https://medium.com/@kallakruparaju" target="blank"><img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  height="30" width="100" /></a> 
   <a href="https://github.com/kallakruparaju/" target="blank"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="30" width="100" /></a>
- <a href="kallakruparaju@gmail.com" target="blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30" width="100" /></a> 
+ 
 
   
 </div>
@@ -33,10 +33,10 @@ I'm a <b>Computer Science student</b> at [<b>Rajiv Gandhi University of Knowledg
 
 <h2 align="center" >🛠 Technical Skills 🛠 </h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallakruparaju/gitdisscussion/master/images/tools.gif" width="380" height="240"/>
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/kallakruparaju/gitdisscussion/master/images/tools.gif" width="380" height="240"/>
   
 
-Currently working on popular technologies like DevOps, Data science, MLOps, Cloud Computing, Big Data, DataBases, Mobile Application development, Web Technologies, Data Structure and Algorithms, Networking and Troubleshooting, Operating System
+Currently working on popular technologies like <b>DevOps, Data science, MLOps, Cloud Computing, Big Data, DataBases, Mobile Application development, Web Technologies, Data Structure and Algorithms, Networking and Troubleshooting, Operating System</b>
 
   <b>DevOps Tools</b>
   
@@ -72,18 +72,18 @@ Currently working on popular technologies like DevOps, Data science, MLOps, Clou
   
   <b>programing langauges</b>
   
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-   	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  	![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
  
    <b>Web Technologies and Frameworks</b>
   
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   
   <b> Mobile Application development</b>
   
