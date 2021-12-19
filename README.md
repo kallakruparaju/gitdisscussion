@@ -28,7 +28,7 @@
   <img a width=380 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kallakruparaju&layout=compact&theme=react&border=61dafb&hide_border=true" />
 </a>
     
-      </div>
+ </div>
  </p>
     
 
