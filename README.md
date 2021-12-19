@@ -22,11 +22,6 @@
    </div>
 </p>
 
-   <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kallakruparaju&show_icons=true&locale=en&layout=compact&theme=react&border=61dafb&hide_border=true" alt="kalla kruparaju" />
-    
-    
-    </p>
 
   <br><br><br><br><br><br><br>
   
