@@ -1,26 +1,24 @@
-<h1 align="center">Hi Dev's <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Kalla Kruparaju Here 👨‍🎓</h1>
+<h1 align="center">Hello Dev's <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Kalla Kruparaju Here 👨‍🎓</h1>
 
 <div>
   <h2 align="left"> ✍ About Me ✍ </h2>
-
   <br>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallakruparaju/gitdisscussion/master/images/welcome.gif" width="380" height="240"/>
-  </br>
-
-
-  
 <h3>Welcome to my profile ‼️</h3>
 
 I'm a <b>Computer Science student</b> at [<b>Rajiv Gandhi University of Knowledge Technologies Ongole</b>](https://www.rguktong.ac.in/). I'm a Curious and tech enthusiast person Highly Interested to work in the <b>Devops</b> and <b>Cloud approaches</b>. I am always passionate about understanding the core concepts behind the popular technologies. I am Keen to learn new things every day and <b>passionate about exploring new technologies and Intergrating different technologies</b>. Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies.
 
-<h4>⚡Automation⚡ is close to my heart Actively Trying to Integrate Multiple Technologies together for optimized Configuration & Infrastructure </h4>
+<h3>⚡Automation⚡ is close to my heart Actively Trying to Integrate Multiple Technologies together for optimized Configuration & Infrastructure </h3>
 
-  </br>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallakruparaju/gitdisscussion/master/images/automation.gif" width="1000" height="450"/>
-  </br>
+
  </div>
 
- <br><br><br><br><br><br><br><br><br><br>
+
+
+<br><br><br><br><br><br><br><br><br><br>
+
 
 <h2 align="center">Stats ⚡</h2>
 
