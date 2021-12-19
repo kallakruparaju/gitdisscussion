@@ -20,12 +20,9 @@
  <br><br><br><br><br><br><br>
     
    
-<a>
-  <p>                               </p>
-</a>
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img a width=350 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kallakruparaju&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" />
+  <img a width=350 align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kallakruparaju&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" />
 </a>
 
 
